@@ -21,6 +21,7 @@ Working as an **Infrastructure Software Engineer** at @Goldenspear fulfilling di
 – Cloud Native Ecosystem ☁️ <br>
 – I am looking to collaborate with the community via Open Source <br>
 – Being able to contribute to some CNCF projects 🤩 <br>
+– Machine learning with a special interest in MLOps
 
 ### Familiar with
 <div>
