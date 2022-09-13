@@ -15,6 +15,7 @@ Working as an **Infrastructure Software Engineer** at @Goldenspear fulfilling di
 – Helping with Docker and Docker Swarm <br>
 – Starting to use Kubernetes to ease ML engineers workflows (JupyterHub, Kubeflow, and more) <br>
 – Exploring new tools to improve company's infrastructure (CrowdSec, nala, Traefik, ...)
+- Developing backend services with both NodeJS and Python
 
 ### Interested in 
 
