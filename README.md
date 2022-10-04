@@ -14,8 +14,8 @@ Working as an **Infrastructure Software Engineer** at @Goldenspear fulfilling di
 – Automating server configuration <br>
 – Helping with Docker and Docker Swarm <br>
 – Starting to use Kubernetes to ease ML engineers workflows (JupyterHub, Kubeflow, and more) <br>
-– Exploring new tools to improve company's infrastructure (CrowdSec, nala, Traefik, ...) <br>
-– Developing backend services with both NodeJS and Python
+– Exploring new tools to improve company's infrastructure (CrowdSec, Nala, Traefik, Cloudflare, and more) <br>
+– Developing backend services with both NodeJS and Python + MongoDB
 
 ### Interested in 
 
@@ -30,6 +30,7 @@ Working as an **Infrastructure Software Engineer** at @Goldenspear fulfilling di
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
 </div>
 
