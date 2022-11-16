@@ -1,17 +1,19 @@
 👋 Hi there! I am Guillem
 
-I am a person who uses computers to help make things happen. Coding stuff to simplify other developers' day-to-day work.
+I am a person who uses computers to help make things happen. Coding stuff to problem-solving and to simplify others' day-to-day work.
 
+### Currently
 
+Working as a **Backend Software Engineer** 
 
-### Currently 
+### Previously 
 
-Working as an **Infrastructure Software Engineer** at @Goldenspear fulfilling different duties based on every moment needs
+Worked as an **Infrastructure Software Engineer** at @Goldenspear fulfilling different duties based on every moment needs
 
-– Building internal tooling <br>
+– Building internal tooling (CLI for SSH connection to company's on-prem services via LDAP authentication) <br>
 – Linux sysadmin tasks (server updating, access control via LDAP, VPN & UFW, etc.)  <br>
 – CI with Github Actions <br>
-– Automating server configuration <br>
+– Automating server configuration with Ansible <br>
 – Helping with Docker and Docker Swarm <br>
 – Starting to use Kubernetes to ease ML engineers workflows (JupyterHub, Kubeflow, and more) <br>
 – Exploring new tools to improve company's infrastructure (CrowdSec, Nala, Traefik, Cloudflare, and more) <br>
@@ -22,7 +24,7 @@ Working as an **Infrastructure Software Engineer** at @Goldenspear fulfilling di
 – Cloud Native Ecosystem ☁️ <br>
 – I am looking to collaborate with the community via Open Source <br>
 – Being able to contribute to some CNCF projects 🤩 <br>
-– Machine learning with a special interest in MLOps
+– Serverless world 🪐 <br>
 
 ### Familiar with
 <div>
