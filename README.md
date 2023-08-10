@@ -4,7 +4,7 @@ I am a person who uses computers to help make things happen. Coding stuff to pro
 
 ### Currently
 
-Working as a **Backend Software Engineer** 
+Working as a **Backend Software Engineer** at @Banxware
 
 ### Previously 
 
@@ -23,7 +23,6 @@ Worked as an **Infrastructure Software Engineer** at @Goldenspear fulfilling dif
 
 – Cloud Native Ecosystem ☁️ <br>
 – I am looking to collaborate with the community via Open Source <br>
-– Being able to contribute to some CNCF projects 🤩 <br>
 – Serverless world 🪐 <br>
 
 ### Familiar with
